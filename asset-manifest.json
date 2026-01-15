@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.f4bd110c.css",
-    "main.js": "/your-repo-name/static/js/main.3bbf6e4e.js",
-    "static/js/453.9799b89c.chunk.js": "/your-repo-name/static/js/453.9799b89c.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.f4bd110c.css.map": "/your-repo-name/static/css/main.f4bd110c.css.map",
-    "main.3bbf6e4e.js.map": "/your-repo-name/static/js/main.3bbf6e4e.js.map",
-    "453.9799b89c.chunk.js.map": "/your-repo-name/static/js/453.9799b89c.chunk.js.map"
+    "main.css": "/React-Sample-App/static/css/main.f4bd110c.css",
+    "main.js": "/React-Sample-App/static/js/main.fcad981f.js",
+    "static/js/453.9799b89c.chunk.js": "/React-Sample-App/static/js/453.9799b89c.chunk.js",
+    "index.html": "/React-Sample-App/index.html",
+    "main.f4bd110c.css.map": "/React-Sample-App/static/css/main.f4bd110c.css.map",
+    "main.fcad981f.js.map": "/React-Sample-App/static/js/main.fcad981f.js.map",
+    "453.9799b89c.chunk.js.map": "/React-Sample-App/static/js/453.9799b89c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4bd110c.css",
-    "static/js/main.3bbf6e4e.js"
+    "static/js/main.fcad981f.js"
   ]
 }
